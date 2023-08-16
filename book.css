@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo1{
+    height: 50px;
+}
+.div2{
+    overflow: hidden;  
+    height: 50px; 
+    background-color: #ffffff;
+    margin: 0%;
+    position: sticky;
+    top: 0;
+    clear: both;
+}
+.div2 a{
+        float: right;
+        color: #332121;
+        text-align: right;
+        padding: 20px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        background-color: #ffffff;
+}
+.div2 a.split {
+    float: right;
+    background-color: #ffffff;
+    color: rgb(14, 1, 1);    
+}
+.div2 a:hover{
+    background-color: #15c2f7;
+    color: #000;
+}
