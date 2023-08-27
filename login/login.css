@@ -1,0 +1,63 @@
+body{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom  right, red, blue);
+    background-size: 100% 1000px;
+}
+    .contactform{
+    background-image: url(sgs.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: 50px;
+    background-position-x: 230px;
+    border: 1PX solid black;
+    display: inline-block;
+    width: 400px;
+    padding: 12px 51px;
+}
+.contactform:hover{
+    background-image: none;
+    background-color: white;
+    border-radius: 5%;
+    transition-duration: 1.5s;
+}
+.cantainor{
+    display: flex;
+    justify-content: center;
+}
+.contactform h1{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.inputbox input{   
+    border: none;
+    width: 200px;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border-bottom: 2px solid #333;
+    box-decoration-break: slice;
+}
+.inputbox span{
+    /* position: relative; */
+    position: relative; 
+    left: 0%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    pointer-events: none;
+    transition: 0.5s;
+    color: #000000;
+    flex-wrap: wrap;
+}
+.inputbox input[TYPE="submit"]
+{
+    
+    width: 237px;
+    background: #00bcd4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+}
