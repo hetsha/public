@@ -1,0 +1,142 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  background-image: url(singapore.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* menubar */
+.logo1 {
+  height: 60px;
+}
+
+.div2 {
+  overflow: hidden;
+  height: 50px;
+  background-color: #ffffff;
+  margin: 0%;
+  position: sticky;
+  top: 0;
+  clear: both;
+}
+
+.div2 a {
+  float: right;
+  color: #332121;
+  text-align: right;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: #ffffff;
+}
+
+.div2 a.split {
+  float: right;
+  background-color: #ffffff;
+  color: rgb(14, 1, 1);
+}
+
+.div2 a:hover {
+  color: #15c2f7;
+  transform: translateY(-5px);
+  transition: 0.5s;
+}
+
+.img {
+  border: 10px solid rgb(156, 156, 156);
+  padding: 1%;
+  background-color: aliceblue;
+  display: inline-block;
+  margin: 43%;
+  margin-top: 20%;
+  margin-bottom: 19%;
+}
+
+.new {
+  display: inline-block;
+  background-color: white;
+  width: 99.99%;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+
+#new {
+  display: inline-block;
+  background-color: white;
+  width: 99.99%;
+  /* border-top-left-radius:2%;
+  border-top-right-radius:2%; */
+}
+
+/* gallary */
+.images {
+  margin-top: 0%;
+  padding-top: 0%;
+  border-radius: 5%;
+}
+
+div.gallery {
+  border: 1px solid #cccccc00;
+  /* border-radius: 5%; */
+  background-color: white;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+  border-radius: 5%;
+  background-color: rgb(247, 250, 81);
+  transition-duration: 1.5s;
+  transform: translateX();
+}
+
+div.gallery img {
+  width: 100%;
+  height: 300px;
+}
+
+div.gallery img:hover {
+  box-shadow: 2px solid silver;
+}
+
+#new img:hover {
+  border-color: rgb(225, 240, 17);
+  -webkit-box-direction: reverse;
+  -webkit-box-reflect: top;
+  transform: translateY(-20px);
+  transition-duration: 1.5s;
+}
+
+#goa {
+  height: 421px;
+  border-radius: 5%;
+}
+
+.pop {
+  margin-bottom: 20px;
+  margin-top: 0%;
+}
+
+div.desc {
+  padding: 20px;
+  /* visibility: hidden; */
+  text-align: center;
+}
+
+.size {
+  padding: 10px 2px;
+  float: left;
+  width: 32.999999%;
+  background-color: white;
+}
+
+/* for screen */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

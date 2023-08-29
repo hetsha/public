@@ -1,0 +1,66 @@
+DUBAI
+-------
+PLACES
+-------
+1.Burj Khalifa = 
+The Burj Khalifa is a skyscraper in Dubai, United Arab Emirates. It is the world's tallest building. With a total height of 829.8 m(2,722 ft) and a roof height of 828 m(2,717 ft), the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009, supplanting Taipei 101, the previous holder of that status.Construction of the Burj Khalifa began in 2004, with the exterior completed five years later in 2009.Abu Dhabi and the UAE government lent Dubai money to pay its debts. The building broke numerous height records, including its designation as the tallest building in the world.
+	ADDRESS =  1 Sheikh Mohammed bin Rashid Blvd - Dubai - UAE
+	PHONE = 971 4 888 8888
+
+2.Burj Al Arab = 
+The Burj Al Arab (Arabic: برج العرب, Arab Tower) is a luxury hotel located in the city of Dubai, United Arab Emirates. Developed and Managed by Jumeirah hotel group, it is one of the tallest hotels in the world, although 39% of its total height is made up of non-occupiable space. Burj Al Arab stands on an artificial island that is 280 m(920 ft) from Jumeirah Beach and is connected to the mainland by a private curving bridge. The shape of the structure is designed to resemble the sail of a ship. It has a helipad near the roof, at a height of 210 m (689 ft) above ground.
+	ADDRESS = Umm Suqeim 3 - Dubai - UAE
+	PHONE = 971 4 301 7777
+
+3.The Dubai Mall =
+Dubai Mall is a shopping mall in Dubai. It is the largest mall in the world by total land area and the 26th-largest shopping mall in the world by gross leasable area, tying with West Edmonton Mall and Fashion Island —both of which are older than it. It has a total retail floor area of 502,000 square metres. Located in Dubai, United Arab Emirates, it is part of the
+20-billion-dollar Downtown complex (called Downtown Dubai) adjacent to the iconic Burj Khalifa, and includes over 1,200 shops. In 2011, it was the most visited building on the planet, attracting over 54 million visitors each year.In January 2023, the shopping mall announced that it is officially changing its name from "The Dubai Mall" to "Dubai Mall." 
+	ADDRESS =  Downtown Dubai - Dubai - UAE
+	PHONE = 971 800 382246255
+
+4.Aquaventure Waterpark =
+"Conquer the world's largest waterpark and get your pulse racing with over 105 slides, attractions and experiences. Spanning 22.5 hectares it features three action-packed towers, the world's largest kids' only waterpark experience, over 2-kilometres of River Rapids and 1km of private beach. Thrill-seekers can scream down record-breaking waterslides, young families will enjoy the safety of Splashers Kids' Play Area, and animal lovers can get up close with dolphins, sea lions, sharks and stingrays. Whether you're here on holiday or a UAE resident looking to add a splash of adventure to your weekend, join us at Aquaventure Waterpark."
+	ADDRESS = Atlantis The Palm - Crescent Rd - Dubai - UAE
+	PHONE = 971 4 426 0000
+
+5.Dubai Miracle Garden =
+The Dubai Miracle Garden (in Arabic: حديقة الزهور بدبي) is a flower garden located in the district of Dubailand, Dubai, United Arab Emirates. The garden was launched on Valentine's Day in 2013.
+It occupies over 72,000 square metres (780,000 sq ft), making it the world's largest natural flower garden, featuring over 50 million flowers and 250 million plants. In April 2015, the garden was given the Moselle Award for New Garden Experiences of the year by the Garden Tourism Award 2015.
+	ADDRESS = Street 3 - Al Barsha - Al Barsha South - Dubai - AUE
+	PHONE = 971 4 422 8902
+
+6.Dubai Frame =
+The Dubai Frame (Arabic: برواز دبي) is an observatory, museum, and monument in Zabeel Park, Dubai. It holds the record for the largest frame in the world. The building has a height of
+150.24 meters and a width of 95.53 meters. The building mainly serves as an observatory, providing views of old Dubai in the north and newer parts in the south.
+It opened in January 2018.
+	ADDRESS =  Zabeel Park Jogging Track - Za'abeel - Al Kifaf - Dubai - UAE
+	PHONE = 971 800 900
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+HOTELS
+-------------------------------------------------------------------------------------------------
+1. Conrad Dubai=
+Conrad Dubai in the United Arab Emirates is a 51-storey luxury hotel. Located in Dubai's commercial center on Sheikh Zayed Road, the property is 2-minute walk from Dubai World Trade Centre and is close to Dubai International Financial Centre and The Dubai Mall. The hotel was officially opened on 18 September 2013.
+Conrad Dubai hotel has three food and beverage venues: Ballaro, Bliss 6, Cave, Isla and Kimpo.
+	Check-in time: 15:00
+	Check-out time: 12:00
+		ADDRESS = Sheikh Zayed Rd - Trade Centre - Trade Centre 1 - UAE
+		Contact = 971 4 444 7444
+	Cost = starting price ₹12,947
+
+2.Fairmont Dubai =
+Set in a 34-storey tower with concave glass sides, this modern, upscale hotel is 6 km from Burj Khalifa and The Dubai Mall.Dining options include 8 posh restaurants and 4 bars, including a rooftop lounge and a cigar bar. There are also 2 nightclubs and 2 rooftop pools, plus a gym, a spa and a circus theatre.
+	Check-in time: 15:00
+	Check-out time: 12:00
+		Address = Sheikh Zayed Rd - Trade Centre - Trade Centre 1 - Dubai - United Arab Emirates
+		phone = 971 4 332 5555
+	Cost = starting price ₹13,840
+
+3.Hilton Dubai Al Habtoor City =
+In a high-rise building overlooking Dubai Water Canal, this upmarket hotel is 6 km from Jumeirah Beach Park on the Gulf, and 17 km from Dubai International Airport.Featuring free-standing baths, the chic rooms come with minibars, complimentary Wi-Fi and flat-screens. Club level rooms add tea and coffeemaking equipment, plus access to a private lounge serving snacks and drinks. Suites provide sitting areas or separate living rooms. Upgraded suites offer dining rooms and/or game rooms; some have 2 bedrooms.
+	Check-in time: 15:00
+	Check-out time: 12:00
+		Address = Sheikh Zayed Rd - Dubai - UAE
+		Phone = 971 4 437 3333
+	Cost = starting price ₹15,168
+-------------------------------------------------------------------------------------------------

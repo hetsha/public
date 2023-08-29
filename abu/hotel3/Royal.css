@@ -1,0 +1,117 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo1 {
+    height: 60px;
+}
+
+.div2 {
+    overflow: hidden;
+    height: 50px;
+    background-color: #ffffff;
+    margin: 0%;
+    position: sticky;
+    top: 0;
+    clear: both;
+}
+
+.div2 a {
+    float: right;
+    color: #332121;
+    text-align: right;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #ffffff;
+}
+
+.div2 a.split {
+    float: right;
+    background-color: #ffffff;
+    color: rgb(14, 1, 1);
+}
+
+.div2 a:hover {
+    color: #15c2f7;
+    transform: translateY(-5px);
+    transition: 0.5s;
+}
+
+body {
+    background-image: url(abu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-top: 27%;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.main1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: rgba(255, 255, 255, 0.589);
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.main1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.size {
+    padding: 10px 2px;
+    float: left;
+    width: 32.99999%;
+}
+
+.images {
+    margin-top: 0%;
+    padding-top: 0%;
+    border-radius: 3%;
+    border: 3px solid black;
+    width: 440px;
+}
+
+div.gallery {
+    /* border: 1px solid #ccc; */
+    border-radius: 5%;
+    padding: 0%;
+    /* width: 500px; */
+}
+
+.clear:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sub:hover {
+    background-color: palevioletred;
+    transform: translatey(-5px);
+    transition-duration: 0.5s;
+
+}
+
+.sub {
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    margin-left: 50%;
+}
+
+img:hover {
+    border-radius: 10%;
+    transform: translatey(-20px);
+    transition-duration: 0.5s;
+}
