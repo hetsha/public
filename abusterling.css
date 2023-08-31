@@ -40,7 +40,7 @@
 }
 
 body {
-    background-image: url(abu.jpg);
+    background-image: url(abu/abu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
