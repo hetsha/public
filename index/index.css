@@ -12,12 +12,10 @@
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb{
-  background-color: #fde65e;
+  background-color: #fde02f;
   border-radius: 50px;
 }
-::-webkit-scrollbar-thumb:hover{
-  background-color: #fde02f;
-}
+
 .bgimg h1{
   color: black;
   border: 10px solid white;

@@ -3,6 +3,20 @@
     padding: 0%;
 }
 
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px gray;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #fde02f;
+    border-radius: 50px;
+}
+
 .logo1 {
     height: 60px;
 }
