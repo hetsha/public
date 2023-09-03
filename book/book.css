@@ -93,6 +93,8 @@ textarea {
     font-family: 'Nanum Gothic';
     width: 100%;
     padding: 10px;
+    outline: none;
+    border: none;
 }
 
 div.elem-group.inlined input {

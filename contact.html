@@ -9,6 +9,7 @@
         * {
             margin: 0%;
             padding: 0%;
+
         }
 
         .logo1 {
@@ -60,32 +61,53 @@
 
         .content {
             box-shadow: 2px 5px 8px 10px white;
-            background-color: white;
+            color: white;
+            background-color: rgb(0, 0, 0);
             border-radius: 5%;
             border: 2px solid black;
             position: absolute;
-            margin-top: 10%;
+            margin-top: 8%;
             width: 30%;
             margin-left: 33.9999%;
-            padding: 0% 2% 1% 1%;
+            padding: 0% 1% 1% 1%;
+            position: absolute;
+        }
+
+        .content h1 {
+            font-family: 'Bubblegum Sans', cursive;
+            font-family: 'Dai Banna SIL', serif;
+            font-family: 'Merienda', cursive;
+            font-family: 'Playfair Display', serif;
+            font-family: 'Ruwudu', serif;
+            font-family: 'Satisfy', cursive;
         }
 
         .lan label {
             position: absolute;
+            font-size: x-large;
             transform: translateY(-100%);
+            font-style: italic;
         }
 
-        .lan input {
+        .lan input,textarea{
             width: 100%;
-            height: 20px;
+            height: 35px;
+            outline: none;
+            border: none;
+            font-size: large;
+            font-style: italic;
+            color: white;
+            background-color: black;
+            border-bottom: 1px solid white;
         }
 
         .lan .sub {
             height: 30px;
-            background-color: cyan;
+            background-color: rgb(55, 56, 56);
             color: white;
             font-weight: bold;
             font-size: larger;
+            font-style: italic;
         }
 
         .lan {
@@ -94,31 +116,38 @@
             display: inline-block;
             /* border: 2px solid red; */
         }
-    </style>
+        </style>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Dai+Banna+SIL:ital,wght@1,300&family=Merienda:wght@300&family=Playfair+Display&family=Ruwudu:wght@400;500&family=Satisfy&display=swap"
+            rel="stylesheet">
 </head>
 
 <body>
     <div class="div2">
-        <a href="loginform.html" class="split">login</a>
-        <a href="index.html#het">places</a>
+        <a href="index.html" class="split">login</a>
+        <a href="mainindex.html#het">places</a>
         <a href="contact.html">Contact</a>
-        <a href="index.html">Home</a>
+        <a href="mainindex.html">Home</a>
         <img src="sgs.png" class="logo1" srcset="" class="logo1">
     </div>
+      
     <div class="bg">
         <div class="content">
-            <form action="index.html">
+            <h1 align="center">Contect Us Now</h1>
+            <form action="mainindex.html">
                 <div class="lan">
-                    <label for="">name</label>
-                    <input type="text" required>
+                    <label for="">Name</label>
+                    <input type="text" required placeholder="Enter Your Name">
                 </div>
                 <div class="lan">
-                    <label for="">email</label>
-                    <input type="email" required>
+                    <label for="">Email</label>
+                    <input type="email" placeholder="Enter Your Email" required>
                 </div>
                 <div class="lan">
                     <label for="">Message</label>
-                    <textarea cols="50" rows="10" required></textarea>
+                    <textarea rows="20" placeholder="Enter Your Message" required></textarea>
                 </div>
                 <div class="lan">
                     <input type="submit" class="sub" value="post">
