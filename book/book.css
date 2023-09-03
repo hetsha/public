@@ -1,34 +1,125 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
-.logo1{
+body{
+    background-image: url(shapelined-_JBKdviweXI-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.logo1 {
     height: 50px;
 }
-.div2{
-    overflow: hidden;  
-    height: 50px; 
+
+
+.div2 {
+    overflow: hidden;
+    height: 50px;
     background-color: #ffffff;
     margin: 0%;
     position: sticky;
     top: 0;
     clear: both;
-}
-.div2 a{
-        float: right;
-        color: #332121;
-        text-align: right;
-        padding: 20px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        background-color: #ffffff;
-}
-.div2 a.split {
+  }
+  
+  .div2 a {
+    float: right;
+    color: #332121;
+    text-align: right;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #ffffff;
+  }
+  
+  .div2 a.split {
     float: right;
     background-color: #ffffff;
-    color: rgb(14, 1, 1);    
+    color: rgb(14, 1, 1);
+  }
+  
+  .div2 a:hover {
+    color: #15c2f7;
+    transform: translateY(-5px);
+    transition: 0.5s;
+  }
+  
+.booking-form {
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 0%;
+    padding: 50px;
+    border-radius: 5%;
+    /* border: 1px solid #ffffff; */
+    box-shadow: 0px 13px 29px 13px black;
+    background: #ffffff56;
 }
-.div2 a:hover{
-    background-color: #15c2f7;
-    color: #000;
+
+.cd__main {
+    background-position: center;
+    background-attachment: fixed;
+    padding-top:50px;
+}
+.cd__main h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+}
+
+div.elem-group {
+    margin: 20px 0;
+}
+
+div.elem-group.inlined {
+    width: 49%;
+    display: inline-block;
+    float: left;
+    margin-left: 1%;
+}
+
+label {
+    display: block;
+    font-family: 'Nanum Gothic';
+    padding-bottom: 10px;
+    font-size: 1.25em;
+}
+
+input,
+select,
+textarea {
+    border-radius: 2px;
+    border: 2px solid #777;
+    box-sizing: border-box;
+    font-size: 1.25em;
+    font-family: 'Nanum Gothic';
+    width: 100%;
+    padding: 10px;
+}
+
+div.elem-group.inlined input {
+    width: 95%;
+    display: inline-block;
+}
+
+textarea {
+    height: 150px;
+}
+
+hr {
+    border: 1px dotted #ccc;
+}
+
+button {
+    height: 50px;
+    background: orange;
+    border: none;
+    color: white;
+    font-size: 1.25em;
+    font-family: 'Nanum Gothic';
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 0 12px;
+}
+
+button:hover {
+    background: #333;
 }

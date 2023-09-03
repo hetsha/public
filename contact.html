@@ -1,18 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>contact us</title>
     <style>
-        body{
-            background-image: url(un.jpg);
+        * {
+            margin: 0%;
+            padding: 0%;
+        }
+
+        .logo1 {
+            height: 60px;
+        }
+
+        .div2 {
+            overflow: hidden;
+            height: 50px;
+            background-color: #ffffff;
+            margin: 0%;
+            position: sticky;
+            top: 0;
+            clear: both;
+        }
+
+        .div2 a {
+            float: right;
+            color: #332121;
+            text-align: right;
+            padding: 20px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            background-color: #ffffff;
+        }
+
+        .div2 a.split {
+            float: right;
+            background-color: #ffffff;
+            color: rgb(14, 1, 1);
+        }
+
+        .div2 a:hover {
+            color: #15c2f7;
+            transform: translateY(-5px);
+            transition: 0.5s;
+        }
+
+        body {
+            background-image: url(contact/wallpaper2you_399418.jpg);
             background-repeat: no-repeat;
-            background-size: cover;
+            background-size: 250vh;
+        }
+
+        .bg {
+            background-color: rgba(255, 238, 0, 0.479);
+            height: 100vh;
+        }
+
+        .content {
+            box-shadow: 2px 5px 8px 10px white;
+            background-color: white;
+            border-radius: 5%;
+            border: 2px solid black;
+            position: absolute;
+            margin-top: 10%;
+            width: 30%;
+            margin-left: 33.9999%;
+            padding: 0% 2% 1% 1%;
+        }
+
+        .lan label {
+            position: absolute;
+            transform: translateY(-100%);
+        }
+
+        .lan input {
+            width: 100%;
+            height: 20px;
+        }
+
+        .lan .sub {
+            height: 30px;
+            background-color: cyan;
+            color: white;
+            font-weight: bold;
+            font-size: larger;
+        }
+
+        .lan {
+            padding-top: 10%;
+            width: 100%;
+            display: inline-block;
+            /* border: 2px solid red; */
         }
     </style>
 </head>
+
 <body>
-    
+    <div class="div2">
+        <a href="loginform.html" class="split">login</a>
+        <a href="index.html#het">places</a>
+        <a href="contact.html">Contact</a>
+        <a href="index.html">Home</a>
+        <img src="sgs.png" class="logo1" srcset="" class="logo1">
+    </div>
+    <div class="bg">
+        <div class="content">
+            <form action="index.html">
+                <div class="lan">
+                    <label for="">name</label>
+                    <input type="text" required>
+                </div>
+                <div class="lan">
+                    <label for="">email</label>
+                    <input type="email" required>
+                </div>
+                <div class="lan">
+                    <label for="">Message</label>
+                    <textarea cols="50" rows="10" required></textarea>
+                </div>
+                <div class="lan">
+                    <input type="submit" class="sub" value="post">
+                </div>
+            </form>
+        </div>
+    </div>
 </body>
+
 </html>
