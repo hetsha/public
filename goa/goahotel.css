@@ -107,6 +107,7 @@ div.gallery {
     width: 150px;
     display: inline-block;
     margin-left: 45%;
+    background-color:grey;
 }
 
 img:hover {
