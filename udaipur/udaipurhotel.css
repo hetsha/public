@@ -101,14 +101,16 @@ div.gallery {
     transition-duration: 0.5s;
 
 }
-
 .sub {
     height: 50px;
     width: 150px;
     display: inline-block;
     margin-left: 45%;
+    background-color: white;
+    font-size: large;
+    color: black;
+    font-weight: 900;
 }
-
 img:hover {
     border-radius: 10%;
     transform: translatey(-20px);

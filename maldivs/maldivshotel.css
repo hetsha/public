@@ -107,6 +107,10 @@ div.gallery {
     width: 150px;
     display: inline-block;
     margin-left: 45%;
+    background-color: white;
+    font-size: large;
+    color: black;
+    font-weight: 900;
 }
 
 img:hover {
