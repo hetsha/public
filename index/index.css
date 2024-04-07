@@ -72,9 +72,10 @@
     margin-bottom: 2%;
 }
 .bgimg h1{
-  margin-top: 10.90%;
+  /* margin-top: 10.90%; */
   display: inline-block;
-  margin-left: 37%;
+  flex: auto;
+  /* margin-left: 37%; */
 }
 div.gallery {
     border: 1px solid #ccc;
@@ -102,10 +103,14 @@ div.gallery {
     text-align: center;
     size: 30px;
   }
+  div.desc:hover{
+    background-color: red;
+  }
   .size {  
     padding: 10px 6px;
     float:left;
     width: 32.99999%;
+    flex-wrap: wrap;
   }
   /* for screen */
   .clearfix:after {
