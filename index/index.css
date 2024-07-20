@@ -72,10 +72,10 @@
     margin-bottom: 2%;
 }
 .bgimg h1{
-  /* margin-top: 10.90%; */
+   margin-top: 10.90%;
   display: inline-block;
   flex: auto;
-  /* margin-left: 37%; */
+  margin-left: 37%;
 }
 div.gallery {
     border: 1px solid #ccc;
